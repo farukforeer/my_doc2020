@@ -1,3 +1,4 @@
-# my_doc2020
+# my_doc2020 แก้ไขใน gvim
 
-> my first commit on 26 Aug 2020 
+
+> this is my first commit from window 10 on 30-Aug-2020 10:48  p.m.
